@@ -13,9 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codecookerpro&layout=compact)](https://github.com/codecookerpro/github-readme-stats)
 
-<h1 align="center">Hi 👋, I'm Ruslan</h1>
-<h3 align="center">A passionate full-stack developer from Russia</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codecookerpro&label=Profile%20views&color=0e75b6&style=flat" alt="codecookerpro" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codecookerpro" alt="codecookerpro" /></a> </p>
